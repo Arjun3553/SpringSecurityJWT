@@ -7,7 +7,7 @@ Spring Security with JWT is a tool that helps developers securely authenticate a
 Clone the project 
 
 ```bash
- git clone https://github.com/Arjun3553/SpringSecurityJWT.git
+git clone https://github.com/Arjun3553/SpringSecurityJWT.git
 ```
 Install Eclipse Enterprise Edition 
 
