@@ -12,7 +12,7 @@ Clone the project
 Install Eclipse Enterprise Edition 
 
 ```bash
- https://www.eclipse.org/downloads/packages/release/2023-06/rc1/eclipse-ide-enterprise-java-and-web-developers
+https://www.eclipse.org/downloads/packages/release/2023-06/rc1/eclipse-ide-enterprise-java-and-web-developers
 ```    
 Install Jdk-19 
 
