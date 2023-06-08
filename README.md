@@ -26,7 +26,7 @@ https://dev.mysql.com/downloads/
 ```  
 ## Instructions
 
-- Download the [project requirements]() and verify it.
+- Download the [project requirements](https://github.com/Arjun3553/SpringSecurityJWT/blob/master/README.md#project-requirements) and verify it.
 - change the credentials from root to your mysql credentials.
 - setup a db **jwt** in mysql.
 
